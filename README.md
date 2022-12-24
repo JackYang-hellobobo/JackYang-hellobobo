@@ -1,6 +1,6 @@
 ## Hi My Friends !
-- 🔭 I’m currently working on JavaEE Linux CV
-- 🌱 I’m currently learning Web SQL
+- 🔭 I’m currently working on C++ Python Linux icrocontrol
+- 🌱 I’m currently learning Web SQL CV
 - 🤔 I’m looking for help with Partner
 - 📫 How to reach me : jackyanghellobobo@foxmail.com
 - 😄 Pronouns: 仅有本性，才是光和热。
