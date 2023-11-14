@@ -1,5 +1,5 @@
 ## Hi My Friends !
-- 🔭 I’m currently working on C++ Python Linux icrocontrol
+- 🔭 I’m currently working on C/C++ Python Matlab Linux 
 - 🌱 I’m currently learning Embedded RTOS
 - 🤔 I’m looking for help with Partner
 - 📫 How to reach me : jackyanghellobobo@foxmail.com
