@@ -11,13 +11,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi My Friends !
-- 🔭 I’m currently working on C/C++ Python Matlab Unix 
-- 🌱 I’m currently learning Embedded RTOS
-- 📫 How to reach me : jackyanghelobo@vip.qq.com
+- 🔭 I’m Currently Working On C/C++ Python Matlab Linux 
+- 🌱 I’m Currently Learning Embedded RTOS
+- 📫 How To Reach me : jackyanghelobo@vip.qq.com
 - 😄 Pronouns: Stay Hungry Stay Foolish
 
 ## 🤔Status
-[![JackYang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo&show_icons=true&hide=contribs,prs&count_private=true&bg_color=30,77FFD2,6297DB,1EECFF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/JackYang-hellobobo)
+[![Jack Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ✨Programming language I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackYang-hellobobo&layout=compact)](https://github.com/JackYang-hellobobo/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackYang-hellobobo&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
