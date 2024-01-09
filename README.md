@@ -1,14 +1,3 @@
-## Hi My Friends !
-- 🔭 I’m currently working on C/C++ Python Matlab Unix 
-- 🌱 I’m currently learning Embedded RTOS
-- 🤔 I’m looking for help with Partner
-- 📫 How to reach me : jackyanghelobo@vip.qq.com
-- 😄 Pronouns: Stay Hungry Stay Foolish
-
-## 🤔Status
-[![JackYang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo&show_icons=true&hide=contribs,prs&count_private=true&bg_color=30,77FFD2,6297DB,1EECFF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/JackYang-hellobobo)
-## ✨Programming language I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackYang-hellobobo&layout=compact)](https://github.com/JackYang-hellobobo/)
 <!--
 **JackYang-hellobobo/JackYang-hellobobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -21,3 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi My Friends !
+- 🔭 I’m currently working on C/C++ Python Matlab Unix 
+- 🌱 I’m currently learning Embedded RTOS
+- 📫 How to reach me : jackyanghelobo@vip.qq.com
+- 😄 Pronouns: Stay Hungry Stay Foolish
+
+## 🤔Status
+[![JackYang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo&show_icons=true&hide=contribs,prs&count_private=true&bg_color=30,77FFD2,6297DB,1EECFF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/JackYang-hellobobo)
+## ✨Programming language I use
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackYang-hellobobo&layout=compact)](https://github.com/JackYang-hellobobo/)
+
