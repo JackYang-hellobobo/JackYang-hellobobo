@@ -10,15 +10,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi My Friends !
-- 🔭 I’m Currently Working On C/C++ Python Matlab Linux 
+## ✨Hi My Friends!&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;&#x2003;🌱Status
+- 🔭 I’m Currently Working On C/C++ Python Matlab Linux <img align="right" src="https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 - 🌱 I’m Currently Learning Embedded RTOS
 - 📫 How To Reach me : jackyanghelobo@vip.qq.com
 - 😄 Pronouns: Stay Hungry Stay Foolish
 
-## 🤔Status
-[![Jack Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✨Programming language I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackYang-hellobobo&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
