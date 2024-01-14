@@ -10,13 +10,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-## ✨Hi My Friends!
+
+## ✨Hi My Friends!<img align="right" src="https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
 - 🔭 I’m Currently Working On C/C++ Python Matlab Linux 
 - 🌱 I’m Currently Learning Embedded RTOS
 - 📫 How To Reach me : jackyanghelobo@vip.qq.com
-- 😄 Pronouns: Stay Hungry Stay Foolish
+
 
 
 
