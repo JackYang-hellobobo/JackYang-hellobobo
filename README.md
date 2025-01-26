@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 
 
 ## ✨Hi My Friends!<img align="right" src="https://github-readme-stats.vercel.app/api?username=JackYang-hellobobo&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
-- 🔭 I’m Currently Working On C/C++ Python Matlab Linux 
-- 🌱 I’m Currently Learning Embedded RTOS
-- 📫 How To Reach me : mailto:eejackyang@outlook.com
+- 🔭 I’m Currently Working On C/C++ Hardware UnixOS  
+- 🌱 I’m Currently Learning Embedded Hardware ,SI,PI,EMC
+- 📫 How To Reach me : mailto:jackyanghellobobo@foxmail.com
 
 
 
